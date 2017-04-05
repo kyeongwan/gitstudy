@@ -1,3 +1,3 @@
 student number : 20170323
 name : wonjun Jang
-major : null
+major : software
